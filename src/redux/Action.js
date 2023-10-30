@@ -1,0 +1,57 @@
+///API AUTHENTICATION
+export const API_LOGIN = '1'
+export const LOGIN_SUCCESS = '2'
+export const API_LOGOUT = '3'
+export const LOGOUT_SUCCESS = '4'
+export const API_UPDATE_INFO_USER = '5'
+export const UPDATE_INFO_USER_SUCCES = '6'
+
+///API CATEGORY
+export const API_CHANGE_CATEGORY_ORDERLIST = '10'
+export const CHANGE_CATEGORY_ORDERLIST_SUCCESS = '11'
+
+///API CART
+export const API_ADD_TO_CART = '100'
+export const ADD_TO_CART_SUCCESS = '101'
+
+export const API_REMOVE_FROM_CART = '102'
+export const REMOVE_FROM_CART_SUCCESS = '103'
+
+export const API_GET_ORDER = '104'
+export const GET_ORDER_SUCCESS = '105'
+
+export const API_INCREASE_QUANTITY = '106'
+export const INCREASE_QUANTITY_SUCCESS = '107'
+
+export const API_DECREASE_QUANTITY = '108'
+export const DECREASE_QUANTITY_SUCCESS = '109'
+
+export const API_CHANGE_PAYMENT= '110'
+export const CHANGE_PAYMENT_SUCCESS = '111'
+
+export const API_GET_DISCOUNT = '112'
+export const GET_DISCOUNT_SUCCESS = '113'
+export const ADD_TO_CARTDISCOUNT = '114'
+
+export const API_CLEAR_DISCOUNT = '115'
+export const CLEAR_DISCOUNT_SUCCESS = '116'
+export const REMOVE_FROM_CARTDISCOUNT = '117'
+
+export const API_GET_MYLOCATION = '118'
+export const GET_MYLOCATION_SUCCESS = '119'
+
+export const API_UPDATE_MYLOCATION = '120'
+export const UPDATE_MYLOCATION_SUCCESS = '121'
+
+export const API_CREATE_NEW_LOCATION = '122'
+export const CREATE_NEW_LOCATION_SUCCESS = '123'
+
+///API Notification
+export const API_CREATE_NOTIFICATION_ORDER = '200'
+export const CREATE_NOTIFICATION_ORDER_SUCCESS = '201'
+
+///API Favorite
+export const API_ADD_TO_FAVORITELIST = '300'
+export const ADD_TO_FAVORITELIST_SUCCESS = '301'
+export const API_REMOVE_FROM_FAVORITELIST = '302'
+export const REMOVE_FROM_FAVORITELIST_SUCCESS = '303'

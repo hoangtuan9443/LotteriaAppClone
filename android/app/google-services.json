@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "855799724660",
+    "project_id": "authenticationmobileapp-f790d",
+    "storage_bucket": "authenticationmobileapp-f790d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855799724660:android:26418f34962fdb55f2ef21",
+        "android_client_info": {
+          "package_name": "com.lotteriaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855799724660-fasu1ebom1vj0bl8j9gp5bau7e0jtjti.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lotteriaapp",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "855799724660-u7nldei4evkpj42iu4ijpffck503lu5h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkRah0NnXedafLrotQySI962tqh27FvfM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "855799724660-u7nldei4evkpj42iu4ijpffck503lu5h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
